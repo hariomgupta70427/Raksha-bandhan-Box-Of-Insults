@@ -25,7 +25,8 @@ h2 {
     background-color: #ee9be4;
     box-shadow: 4px 4px #4a4be7;
     padding:5px;
-    border-radius: 5px;}
+    border-radius: 5px;
+    cursor: pointer;}
 
 .card{
     padding:15px 30px 15px 30px;
